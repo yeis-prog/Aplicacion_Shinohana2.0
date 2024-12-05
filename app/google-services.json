@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "467036605474",
+    "firebase_url": "https://new-aplicacionshino-default-rtdb.firebaseio.com",
+    "project_id": "new-aplicacionshino",
+    "storage_bucket": "new-aplicacionshino.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467036605474:android:68d1226be301e6ec25ce7b",
+        "android_client_info": {
+          "package_name": "shinohana.aplicacion_shinohana3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgJrahJQggvt6BkhVytdbu6-pDzMlulHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
